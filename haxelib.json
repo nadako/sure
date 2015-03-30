@@ -1,0 +1,10 @@
+{
+    "name": "sure",
+    "url" : "https://github.com/nadako/sure",
+    "license": "MIT",
+    "tags": ["assert", "test", "cross"],
+    "description": "Assert like a boss",
+    "version": "0.1.0",
+    "releasenote": "Initial",
+    "contributors": ["nadako"]
+}
