@@ -44,7 +44,7 @@ class Sure {
                         throw "Exception not thrown";
                 }
             default:
-                macro @:pos(e.pos) if (!($e : Void)) throw $v{"FAIL: " + e.toString()}
+                macro @:pos(e.pos) if (!($e : Bool)) throw $v{"FAIL: " + e.toString()}
         }
     }
     #end
