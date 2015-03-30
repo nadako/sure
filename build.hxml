@@ -1,5 +1,0 @@
--main Main
--js main.js
--D js-es5
---next
--cmd node main.js

@@ -3,8 +3,8 @@
     "url" : "https://github.com/nadako/sure",
     "license": "MIT",
     "tags": ["assert", "test", "cross"],
-    "description": "Assert like a boss",
-    "version": "0.1.0",
+    "description": "Remove example file",
+    "version": "0.1.1",
     "releasenote": "Initial",
     "contributors": ["nadako"]
 }
